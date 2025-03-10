@@ -125,6 +125,7 @@ python integrate.py --product_dir product_images --output_dir output
 - The harmonization step, while improving realism, may slightly alter product details
 
 ## Sample Results
+![integrated_471034853001-0441_composite](https://github.com/user-attachments/assets/3965a4b3-109d-4e99-a17e-a1b4fbd0de6d)
 
 The tool has been tested with various product types:
 - Decorative vases on coffee tables and shelves
